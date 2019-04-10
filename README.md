@@ -1,3 +1,3 @@
 # exercise
 
-this is for 
+this is for exercising!
